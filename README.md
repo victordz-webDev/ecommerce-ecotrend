@@ -2,8 +2,6 @@
 
 **EcoTrend** é uma plataforma de e-commerce que exibe produtos de forma dinâmica, permitindo fácil gerenciamento de produtos através de um arquivo `JSON`. O design é construído utilizando **Bootstrap** para garantir uma experiência responsiva e consistente em diferentes dispositivos.
 
-[**Visualize o site clicando aqui**](https://victordz-webdev.github.io/ecommerce-ecotrend/)
-
 ## Funcionalidades Principais
 
 ### 1. Carregamento Dinâmico de Produtos
