@@ -2,6 +2,8 @@
 
 **EcoTrend** é uma plataforma de e-commerce que exibe produtos de forma dinâmica, permitindo fácil gerenciamento de produtos através de um arquivo `JSON`. O design é construído utilizando **Bootstrap** para garantir uma experiência responsiva e consistente em diferentes dispositivos.
 
+[**Visualize o site clicando aqui**](https://victordz-webdev.github.io/ecommerce-ecotrend/)
+
 ## Funcionalidades Principais
 
 ### 1. Carregamento Dinâmico de Produtos
@@ -79,12 +81,8 @@ O arquivo `products.json` segue uma estrutura simples para definir os produtos, 
    git clone https://github.com/seu-usuario/E-commerce-EcoTrend.git
    cd E-commerce-EcoTrend
    ```
-
-2. **Visualizar o Site**
-   - Abra o arquivo `index.html` no root do projeto em um navegador web.
-   - Você também pode visualizar o site pelo GitHub Pages [clicando aqui](https://github.com/victordz-webDev/ecommerce-ecotrend)
-
-3. **Alterar Produtos**
+   
+2. **Alterar Produtos**
    - Para atualizar os produtos exibidos, edite o arquivo `src/products.json`. Basta adicionar ou remover entradas no formato JSON, conforme necessário.
 
 ## Requisitos
